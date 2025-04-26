@@ -28,3 +28,6 @@ Pembagian file notebook dilakukan berdasarkan dataset, dan dan masing-masing not
 
 ---
 
+## Week 8
+
+Pembagian file notebook dilakukan berdasarkan 
