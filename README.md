@@ -2,6 +2,8 @@
 
 Repositori ini berisi kumpulan tugas dan proyek yang dikerjakan dalam mata kuliah Deep Learning. Setiap folder mingguan berisi notebook Jupyter dengan implementasi berbagai model dan teknik deep learning.
 
+CATATAN: untuk mengakses folder `week8-16 (UAS)`, Anda perlu menginisialisasi submodule Git yang tertaut dengan repositori [handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary).
+
 ## Daftar Isi
 
 - [Ujian Tengah Semester (UTS)](#ujian-tengah-semester-uts)
@@ -12,7 +14,7 @@ Repositori ini berisi kumpulan tugas dan proyek yang dikerjakan dalam mata kulia
 - [Minggu 5: Klasifikasi Teks](#minggu-5-klasifikasi-teks)
 - [Minggu 6: Deteksi Sarkasme](#minggu-6-deteksi-sarkasme)
 - [Minggu 7: Recurrent Neural Networks (RNN)](#minggu-7-recurrent-neural-networks-rnn)
-- [Minggu 8-16 (UAS)](#minggu-8-16-uas)
+- [Minggu 8-16 (UAS), yang tertaut dengan repositori sebagai submodule](#minggu-8-16-uas)
 
 ## Ujian Tengah Semester (UTS)
 
@@ -75,7 +77,11 @@ Folder ini mengeksplorasi berbagai arsitektur RNN untuk tugas-tugas Natural Lang
 ## Minggu 8-16 (UAS)
 
 Folder ini dicadangkan untuk Ujian Akhir Semester (UAS).
-Folder ini tertaut dengan repositori [handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary) yang berisi rangkuman dari buku ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://github.com/ageron/handson-ml2) oleh Aurélien Géron. Repositori ini mencakup berbagai topik dan teknik dalam machine learning dan deep learning. Repositori tersebut tertaut dengan cara menggunakan submodule Git, sehingga Anda dapat mengaksesnya dengan mudah.
+Folder ini tertaut dengan repositori 
+
+[handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary) 
+
+yang berisi rangkuman dari buku ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://github.com/ageron/handson-ml2) oleh Aurélien Géron. Repositori ini mencakup berbagai topik dan teknik dalam machine learning dan deep learning. Repositori tersebut tertaut dengan cara menggunakan submodule Git, sehingga Anda dapat mengaksesnya dengan mudah.
 Cara mengaksesnya adalah dengan menjalankan perintah berikut di terminal:
 
 ```bash
