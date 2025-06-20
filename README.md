@@ -6,6 +6,10 @@ CATATAN: untuk mengakses folder `week8-16 (UAS)`, Anda perlu menginisialisasi su
 
 Caranya:
 ```bash
+# Jika belum melakukan clone, clone dengan perintah ini
+git clone --recurse-submodules <url-repo>
+
+# Jika terlanjur clone tanpa option seperti di atas, jalankan ini di direktori hasil cloning:
 git submodule update --init --recursive
 ```
 
@@ -90,6 +94,10 @@ yang berisi rangkuman dari buku ["Hands-On Machine Learning with Scikit-Learn, K
 Cara mengaksesnya adalah dengan menjalankan perintah berikut di terminal:
 
 ```bash
+# Jika belum melakukan clone, clone dengan perintah ini
+git clone --recurse-submodules <url-repo>
+
+# Jika terlanjur clone tanpa option seperti di atas, jalankan ini di direktori hasil cloning:
 git submodule update --init --recursive
 ```
 
