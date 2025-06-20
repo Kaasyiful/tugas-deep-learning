@@ -2,7 +2,12 @@
 
 Repositori ini berisi kumpulan tugas dan proyek yang dikerjakan dalam mata kuliah Deep Learning. Setiap folder mingguan berisi notebook Jupyter dengan implementasi berbagai model dan teknik deep learning.
 
-CATATAN: untuk mengakses folder `week8-16 (UAS)`, Anda perlu menginisialisasi submodule Git yang tertaut dengan repositori [handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary).
+CATATAN: untuk mengakses folder `week8-16 (UAS)`, Anda perlu menginisialisasi submodule Git yang tertaut dengan repositori [Ringkasan buku Hands-on](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary) sebagai pemenuhan tugas minggu 8-16.
+
+Caranya:
+```bash
+git submodule update --init --recursive
+```
 
 ## Daftar Isi
 
