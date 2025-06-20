@@ -88,14 +88,16 @@ Folder ini mengeksplorasi berbagai arsitektur RNN untuk tugas-tugas Natural Lang
 Folder ini dicadangkan untuk Ujian Akhir Semester (UAS).
 Folder ini tertaut dengan repositori 
 
-[handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary) 
+[handson-ml-sklearn-keras-tf-summary](https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary)
+
+(https://github.com/Kaasyiful/handson-ml-sklearn-keras-tf-summary)
 
 yang berisi rangkuman dari buku ["Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow"](https://github.com/ageron/handson-ml2) oleh Aurélien Géron. Repositori ini mencakup berbagai topik dan teknik dalam machine learning dan deep learning. Repositori tersebut tertaut dengan cara menggunakan submodule Git, sehingga Anda dapat mengaksesnya dengan mudah.
 Cara mengaksesnya adalah dengan menjalankan perintah berikut di terminal:
 
 ```bash
 # Jika belum melakukan clone, clone dengan perintah ini
-git clone --recurse-submodules <url-repo>
+git clone --recurse-submodules https://github.com/Kaasyiful/tugas-deep-learning.git
 
 # Jika terlanjur clone tanpa option seperti di atas, jalankan ini di direktori hasil cloning:
 git submodule update --init --recursive
